@@ -31,7 +31,8 @@ Para instalar a Calculadora de Anuncios, siga estas etapas:
 
 - Clone este repositório usando: git clone https://github.com/larissamartinsss/Desafio---Capgemini
 - Importe o projeto no IDE escolhido
-- Identifique o arquivo calculadora.java no diretório
+- Identifique o packge em: src > calculadora no diretório
+- Identifique o arquivo calculadora.java
 - Execute e digite o valor do investimento
 - O resultado é uma projeção da quantidade máxima de visualizações. 
 
@@ -39,8 +40,8 @@ Para instalar a Calculadora de Anuncios, siga estas etapas:
 
 - Clone este repositório usando: git clone https://github.com/larissamartinsss/Desafio---Capgemini
 - Importe o projeto no IDE escolhido
-- Identifique o packge CadastroAnuncios no diretório
-- Execute a class CadastroAnuncioExec e informe os dados solicitados
+- Identifique o packge em: src > CadastroAnuncios no diretório
+- Execute a classe CadastroAnuncioExec e informe os dados solicitados
 
 - Obs: Os relatorios esperados não estão retornando da forma esperada. 
 /// Em construção
