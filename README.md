@@ -21,7 +21,7 @@
 Antes de começar, verifique se você atende aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
   - Você instalou a versão mais recente Java JDK
-  - Ter instalado IDE compatível com a linguaguem JAVA`
+  - Ter instalado IDE compatível com a linguaguem JAVA
   
   # 2º Parte - Cadastro de anúncios
 
@@ -83,6 +83,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Esse projeto não está sob licença. 
+Esse projeto está sob a MIT license. 
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
